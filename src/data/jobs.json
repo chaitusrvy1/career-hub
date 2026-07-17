@@ -1,0 +1,202 @@
+[
+  {
+    "id": "job-001",
+    "title": "Lead Full-Stack Engineer",
+    "department": "Engineering",
+    "location": "San Francisco, CA",
+    "type": "Full-time",
+    "experience": "Senior (5+ years)",
+    "salary": "$140,000 - $180,000",
+    "technology": "React",
+    "skills": ["React", "Node.js", "TypeScript", "GraphQL", "AWS"],
+    "summary": "We are seeking a Lead Full-Stack Engineer to champion development on our core cloud products, leading a tight team of creative engineers.",
+    "description": "As the Lead Full-Stack Engineer, you will own the architectural patterns, security directives, and system designs for our customer portal and high-velocity server frameworks. You will balance hands-on delivery with mentoring junior members and collaborating directly with design and product stakeholders to turn mockups into elegant, fast, and responsive user-facing products.",
+    "requirements": [
+      "5+ years of production experience building high-traffic React and Node.js applications.",
+      "Expert knowledge of TypeScript, state management (Zustand/Redux), and custom hook designs.",
+      "Hands-on experience deploying and tuning scalable infrastructure on AWS (S3, ECS, Lambda).",
+      "Demonstrated ability to establish testing frameworks (Jest, Cypress, Playwright) and CI/CD automation."
+    ],
+    "responsibilities": [
+      "Architect and scale highly secure, robust web client applications and GraphQL microservices.",
+      "Review pull requests, champion high standards of code craftsmanship, and draft design docs.",
+      "Identify frontend performance bottlenecks and implement asset optimizations, lazy loading, and rendering safeguards.",
+      "Coordinate with the Product and UI/UX design teams to refine interactive user flows."
+    ]
+  },
+  {
+    "id": "job-002",
+    "title": "Senior Product Designer",
+    "department": "Design",
+    "location": "Remote (US/Canada)",
+    "type": "Full-time",
+    "experience": "Senior (4+ years)",
+    "salary": "$120,000 - $155,000",
+    "technology": "Figma",
+    "skills": ["Figma", "UI/UX Design", "Wireframing", "Design Systems", "Prototyping"],
+    "summary": "Join our design studio and craft the next-generation user experience for millions of students and corporate clients.",
+    "description": "We are looking for a Senior Product Designer who thrives on solving complex user experience challenges and translating them into simple, beautiful, and intuitive interfaces. You will define our multi-platform brand layout, establish and scale our component library, and execute rapid high-fidelity prototypes.",
+    "requirements": [
+      "4+ years of professional product design experience in high-growth startups or tech organizations.",
+      "An exceptional portfolio showcasing beautiful, accessible, and highly researched visual design interfaces.",
+      "Mastery of Figma, including advanced variables, component variants, auto-layouts, and prototyping workflows.",
+      "Deep understanding of accessibility guidelines (WCAG) and multi-device responsive layout standards."
+    ],
+    "responsibilities": [
+      "Conduct user research interviews and translate field telemetry logs into structured feature wireframes.",
+      "Develop and maintain our shared, cross-platform Figma design system token standards.",
+      "Craft pixel-perfect visual mockups, illustrations, and fluid interactive feedback states.",
+      "Collaborate directly with React developers during handoffs to ensure pristine UI styling implementation."
+    ]
+  },
+  {
+    "id": "job-003",
+    "title": "Frontend Developer (React)",
+    "department": "Engineering",
+    "location": "Hybrid (New York, NY)",
+    "type": "Full-time",
+    "experience": "Mid-level (2-4 years)",
+    "salary": "$95,000 - $125,000",
+    "technology": "React",
+    "skills": ["React", "TypeScript", "Tailwind CSS", "Next.js", "Vite"],
+    "summary": "We are seeking a talented React developer with solid styling intuition and a deep love for building pixel-perfect responsive interfaces.",
+    "description": "Join our product team to construct intuitive workspaces, analytical boards, and candidate assessment tools. You will implement modular, fluid components using React 19, Tailwind, and Vite, while keeping load speeds fast and accessibility levels high.",
+    "requirements": [
+      "3+ years of professional experience with React and modern client-side application cycles.",
+      "Expertise in CSS layout frameworks with a focus on Tailwind CSS, responsive designs, and flexbox/grid models.",
+      "Strong command over TypeScript type safety and handling server state structures.",
+      "Familiarity with animation libraries like Framer Motion to create smooth interactive micro-transitions."
+    ],
+    "responsibilities": [
+      "Build modular, clean, and well-documented React views and design system atoms.",
+      "Optimize web pages for maximum performance, accessibility, and search engine discoverability.",
+      "Integrate client-side views with server APIs, handling loads, errors, and stale caches cleanly.",
+      "Resolve responsive design inconsistencies and debug visual bugs across multiple browsers and operating systems."
+    ]
+  },
+  {
+    "id": "job-004",
+    "title": "Growth Marketing Manager",
+    "department": "Marketing",
+    "location": "Remote (Global)",
+    "type": "Full-time",
+    "experience": "Mid-level (3+ years)",
+    "salary": "$85,000 - $110,000",
+    "technology": "Marketing",
+    "skills": ["SEO", "Google Analytics", "Copywriting", "Email Campaigns", "A/B Testing"],
+    "summary": "Lead our audience expansion and build creative marketing funnels to capture student candidate interest and corporate partnerships.",
+    "description": "We are seeking a data-driven, creative Growth Marketing Manager to design, launch, and optimize acquisition campaigns. You will analyze conversion funnels, test copywriting iterations, coordinate brand launches, and track engagement trends across search, social, and email channels.",
+    "requirements": [
+      "3+ years of proven success in growth marketing, performance marketing, or digital brand management.",
+      "Deep analytical skills with tools like Google Analytics, SEO tools (Ahrefs, Semrush), and campaign hubs.",
+      "Exceptional copywriting skills with the ability to write high-converting headers, copy, and newsletter cards.",
+      "A test-and-learn mentality with practical experience structuring controlled A/B experiments."
+    ],
+    "responsibilities": [
+      "Define, execute, and analyze paid and organic lead generation campaigns targeting prospective clients.",
+      "Optimize our public web pages and landing boards for organic search discoverability and performance.",
+      "Design and manage automated customer onboarding email drips and engaging community newsletters.",
+      "Publish weekly marketing ROI reports outlining acquisition costs and candidate sign-up trends."
+    ]
+  },
+  {
+    "id": "job-005",
+    "title": "Backend engineer (Python / FastAPI)",
+    "department": "Engineering",
+    "location": "Austin, TX",
+    "type": "Full-time",
+    "experience": "Mid-level (2+ years)",
+    "salary": "$100,000 - $135,000",
+    "technology": "Python",
+    "skills": ["Python", "FastAPI", "PostgreSQL", "Docker", "Redis"],
+    "summary": "Scale our resume scanning, search queries, and secure candidate matching algorithms using Python.",
+    "description": "We are hiring a Backend Engineer to expand, refine, and maintain our core database endpoints, third-party email configurations, and matching microservices. You will collaborate on database query performance tuning and design highly reliable API routers.",
+    "requirements": [
+      "2+ years of professional backend engineering experience using Python and frameworks like FastAPI or Django.",
+      "Strong comprehension of SQL databases (PostgreSQL/MySQL), relational schema design, and index optimization.",
+      "Comfort with Docker environments and writing repeatable containerized service layouts.",
+      "Understanding of security fundamentals, JWT token authorization, and API route rate-limiting."
+    ],
+    "responsibilities": [
+      "Construct fast, secure API endpoints with extensive query filters and input validators.",
+      "Write clean SQL migrations and database queries, avoiding performance lags on complex matching lookups.",
+      "Integrate asynchronous task workers (such as Celery/Redis) to handle intensive background document scans.",
+      "Optimize data serialization logic and construct thorough automated endpoint tests."
+    ]
+  },
+  {
+    "id": "job-006",
+    "title": "Junior DevOps Engineer",
+    "department": "Operations",
+    "location": "Hybrid (London, UK)",
+    "type": "Full-time",
+    "experience": "Junior (1-2 years)",
+    "salary": "£50,000 - £65,000",
+    "technology": "DevOps",
+    "skills": ["Docker", "Linux", "CI/CD", "Bash", "GitHub Actions"],
+    "summary": "Kickstart your infrastructure career! Maintain our automated builds, test pipelines, and cloud health monitoring metrics.",
+    "description": "We are seeking an enthusiastic Junior DevOps Specialist eager to work with cloud architectures. You will support our deployment pipelines, coordinate build logs, maintain sandbox environments, and verify server cluster health.",
+    "requirements": [
+      "1+ years of experience administering Linux environments or supporting web systems deployment.",
+      "Basic understanding of Docker containers, image registries, and writing custom shell scripts (Bash/Python).",
+      "Familiarity with version control workflows and CI/CD tools like GitHub Actions or GitLab CI.",
+      "Strong troubleshooting curiosity with a systematic approach to reading server logs."
+    ],
+    "responsibilities": [
+      "Maintain, debug, and accelerate GitHub Actions workflow automation builds.",
+      "Monitor container cluster performance, reporting load spikes or anomalous network events.",
+      "Ensure sandbox and staging server environments align closely with production release variables.",
+      "Draft, update, and organize team internal wiki pages documenting deployment steps."
+    ]
+  },
+  {
+    "id": "job-007",
+    "title": "UX Research Intern",
+    "department": "Design",
+    "location": "Remote (Global)",
+    "type": "Internship",
+    "experience": "Junior (0-1 years)",
+    "salary": "$20 - $28 / hour",
+    "technology": "Figma",
+    "skills": ["User Research", "Usability Testing", "Wireframing", "Figma", "Communication"],
+    "summary": "Kickstart your design career! Help us conduct interviews, review portal heatmaps, and write detailed usability logs.",
+    "description": "Are you passionate about understanding human behavior and crafting user-centric technology? As our UX Research Intern, you will work hand-in-hand with senior researchers to prepare testing scripts, run live usability walkthroughs, and analyze qualitative student feedback.",
+    "requirements": [
+      "Currently enrolled in or recently graduated from a human-computer interaction, psychology, design, or related program.",
+      "Familiarity with UI design principles and basic wireframing tools (Figma).",
+      "Exceptional conversational skills and empathy to prompt comfortable, open feedback from interview candidates.",
+      "Strong analytical approach to writing clear, structured research summary decks."
+    ],
+    "responsibilities": [
+      "Schedule, organize, and help moderate online video usability testing sessions with student candidates.",
+      "Synthesize feedback logs into organized themes, highlighting friction points in our registration forms.",
+      "Review platform heatmaps and draft recommendations to improve card filter discoverability.",
+      "Present user research slides to developers, designers, and project stakeholders."
+    ]
+  },
+  {
+    "id": "job-008",
+    "title": "Customer Success Representative",
+    "department": "Support",
+    "location": "Remote (Asia/Europe)",
+    "type": "Part-time",
+    "experience": "Junior (1+ years)",
+    "salary": "$25 - $35 / hour",
+    "technology": "Marketing",
+    "skills": ["Customer Support", "Zendesk", "Intercom", "Problem Solving", "CRM"],
+    "summary": "Provide exceptional guidance and high-quality onboarding support to our expanding student cohort.",
+    "description": "We are seeking a warm, diligent Customer Success Representative to maintain high-quality communications. You will answer platform questions, process employer requests, troubleshoot user registration forms, and manage active support tickets.",
+    "requirements": [
+      "1+ years of experience in customer support, reception, call centers, or client-facing roles.",
+      "Exceptional English writing abilities with a polite, helpful, and empathetic tone.",
+      "Fast learner of online dashboards and tools (Zendesk, Intercom, Notion).",
+      "Excellent time management and ability to prioritize incoming inquiry queues."
+    ],
+    "responsibilities": [
+      "Draft clear, friendly email and live-chat responses to student and employer portal inquiries.",
+      "Walk users step-by-step through setting up their profiles and uploading resume links.",
+      "Log recurring system friction points to help frontend developers refine interface layouts.",
+      "Update and publish self-serve help articles and frequently asked questions lists."
+    ]
+  }
+]

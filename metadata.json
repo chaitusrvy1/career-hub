@@ -1,0 +1,6 @@
+{
+  "name": "Job Portal",
+  "description": "A professional single-page website displaying available job openings and a contact inquiry form for candidates and clients.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
